@@ -1,0 +1,29 @@
+.app {
+  padding: 24px;
+}
+
+
+
+.loading {
+  margin: 0 0 16px;
+}
+
+
+
+.pagination {
+  display: flex;
+  gap: 12px;
+}
+
+.pagination button {
+  padding: 10px 16px;
+  border-radius: 8px;
+  border: 1px solid #666;
+  background: #fafafa;
+  cursor: pointer;
+}
+
+.pagination button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
