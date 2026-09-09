@@ -3,6 +3,22 @@
 * A API utilizada foi a mesma do projeto de pokedéx de HTML, CSS e JS, que pode ser acessada aqui:
 > [PokeAPI](https://pokeapi.co/)
 
+
+**Como rodar**
+
+- Instale dependências:
+
+```
+npm install
+```
+
+- Inicie o servidor de desenvolvimento:
+
+```
+npm run dev
+```
+
+
 # Sobre a aplicação
 * A aplicação oferece funcionalidades como filtrar por tipo, buscar pokémons, paginação renderizada em tempo real graças a funcionalidade de hooks do React e exibição de informação de cada pokémon.
 * Segue exemplos de imagens de demonstração da aplicação:
