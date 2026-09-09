@@ -9,8 +9,8 @@
   
 Página inicial:
 
-<img width="690" height="497" alt="image" src="https://github.com/user-attachments/assets/3bf09f7e-9b3b-4d8c-bebd-099c0323e443" />
+![alt text](image.png)
 
 
   Exibindo informações de um pokémon:
-  <img width="686" height="577" alt="image" src="https://github.com/user-attachments/assets/586f6143-4dd5-4258-af8b-be106cbb7e66" />
+  ![alt text](image-1.png)
